@@ -1,0 +1,21 @@
+#name {
+    color: blue;
+    font-size: 4rem;
+    /* position: absolute; */
+    text-align: center;
+}
+
+.first {
+    color: rgb(250, 145, 7);
+    font-size: 3em;
+    position: relative;
+    text-align: center;
+}
+
+ul li {
+    color: chartreuse;
+    background-color: darkblue;
+    width: 200px;
+    text-align: center;
+    padding: 5px;
+}
